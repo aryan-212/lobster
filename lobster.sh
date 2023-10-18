@@ -174,7 +174,7 @@ EOF
         printf "
   Usage: %s [options] [query]
   If a query is provided, it will be used to search for a Movie/TV Show
-
+# I'm Abhishwk
   Options:
     -c, --continue
       Continue watching from current history
